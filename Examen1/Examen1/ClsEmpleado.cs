@@ -142,7 +142,7 @@ namespace Examen1
                     nombre[i] = "";
                     Telefono[i] = "";
                     Direccion[i] = "";
-                    Salario[i] = 0f;
+                    Salario[i] = 0;
                     encontrado = true;
                     break;
 
